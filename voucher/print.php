@@ -176,7 +176,10 @@ table.voucher {
   //$urilogin = "http://$dnsname/login?username=$username&password=$password&dst=&popup=true";
   //$urilogin = "http%3A%2F%2Fwww.distrik51.id%2Flogin%3Fusername%3Dhthu%26password%3D3237%26dst%3D%26popup%3Dtrue";
  // $urilogin = "http://www.distrik51.id/login?username=$username&password=$password&dst=$dnsname&popup=true" ;
- $urilogin = "http://localhost/mahasiswa/?m=loginqr&key=$password" ; 
+// $urilogin = "http://localhost/mahasiswa/?m=loginqr&key=$password" ; 
+ 
+  $urilogin = "http://mahasiswa.amki-yainco.ac.id/?m=loginqr&key=$password" ; 
+ 
  
  $qrcode = "
 	<canvas class='qrcode' id='".$uid."'></canvas>
@@ -192,7 +195,7 @@ table.voucher {
     </script>
 	";
  
-echo  "<hr><a href='$urilogin'>".$urilogin."</a>" ;
+//echo  "<hr><a href='$urilogin'>".$urilogin."</a>" ;
 
   $num = $i + 1;
   ?>
