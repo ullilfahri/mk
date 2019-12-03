@@ -7,3 +7,4 @@ $data['ds'] = array ('1'=>'ds!192.168.1.21','ds@|@admin','ds#|#qJKWmZ+ZaWM=','ds
 $data['new-1846'] = array ('1'=>'new-1846!','new-1846@|@','new-1846#|#','new-1846%','new-1846^','new-1846&Rp','new-1846*10','new-1846(1','new-1846)','new-1846=10','new-1846@!@disable');
 $data['AMKI'] = array ('1'=>'AMKI!10.10.9.254','AMKI@|@admin','AMKI#|#qJKWmZ+ZaWM=','AMKI%amki.net','AMKI^amki.net','AMKI&Rp','AMKI*10','AMKI(1','AMKI)','AMKI=10','AMKI@!@disable');
 $data['distrik'] = array ('1'=>'distrik!192.168.1.17','distrik@|@admin','distrik#|#qJKWmZ+ZaWM=','distrik%distrik','distrik^distrik51.id','distrik&Rp','distrik*10','distrik(1','distrik)','distrik=10','distrik@!@disable');
+$data['Latihan'] = array ('1'=>'Latihan!192.168.88.1','Latihan@|@fahri','Latihan#|#npKaqpo=','Latihan%latihan','Latihan^latihan.net','Latihan&Rp','Latihan*10','Latihan(1','Latihan)','Latihan=10','Latihan@!@disable');
